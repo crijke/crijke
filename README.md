@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Christian 👋
 
-I'm Christian, software engineer. I build web frontends, full stack web applications and the platforms underneath them: React and TypeScript, micro-frontends, design systems. Currently I'm very interested in how to build software with AI agents in a way that is reproducible and reviewable and how much of the process can be automated while staying in control.
+I build web frontends, full stack web applications and the platforms underneath them: React and TypeScript, micro-frontends, design systems. Currently I'm very interested in how to build software with AI agents in a way that is reproducible and reviewable and how much of the process can be automated while staying in control.
 
 ## Currently
 
