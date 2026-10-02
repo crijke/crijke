@@ -26,4 +26,4 @@ TypeScript · React · Node.js · Vite · Module Federation · Tailwind CSS · P
  
 ## Links
  
-[christianrijke.de](https://christianrijke.de) · [LinkedIn](https://www.linkedin.com/in/christian-rijke) · [Xing][https://www.xing.com/profile/Christian_Rijke/web_profiles]
+[christianrijke.de](https://christianrijke.de) · [LinkedIn](https://www.linkedin.com/in/christian-rijke) · [Xing](https://www.xing.com/profile/Christian_Rijke/web_profiles)
