@@ -2,10 +2,11 @@
 
 I'm Christian, software engineer. I build web frontends, full stack web applications and the platforms underneath them: React and TypeScript, micro-frontends, design systems. These days most of my time goes into working out how to build software with AI agents in a way that is reproducible and reviewable and how much of the process can be automated while staying in control.
 
-**Agentic software engineering.** [trails](https://github.com/crijke/trails) is the workflow I currently use every day: a spec → plan → implement process, packaged as agent skills for Claude Code and Codex and as an npm package for automated runs. Each step writes plain markdown into `specs/`, committed alongside the code, so agent work can be reviewed like any other change and picked up again in a later session. There is also an experimental `deslop` skill that removes AI-generated patterns from code without changing its behavior.
-Next up: building a whole software factory on top of this workflow.
+[trails](https://github.com/crijke/trails) is the workflow I currently use every day: a spec → plan → implement process, packaged as agent skills for Claude Code and Codex and as an npm package for automated runs. Each step writes plain markdown into `specs/`, committed alongside the code, so agent work can be reviewed like any other change and picked up again in a later session. There is also an experimental `deslop` skill that removes AI-generated patterns from code without changing its behavior.
+
+Next up: building a whole software factory on top of this workflow. Stay tuned..
  
-**[teikei](https://github.com/teikei/teikei) / Ernte Teilen.** I co-initiated teikei in 2013 and still maintain it. It's the open-source map and API behind [Ernte Teilen](https://ernte-teilen.org/karte), which uses crowdsourced data to connect people with community-supported agriculture farms in Germany, Switzerland and Austria. Right now we're launching a Svelte rewrite of the frontend, built end to end with agentic workflows.
+[teikei](https://github.com/teikei/teikei) / Ernte Teilen. I co-initiated teikei in 2013 and still maintain it. It's the open-source map and API behind [Ernte Teilen](https://ernte-teilen.org/karte), which uses crowdsourced data to connect people with community-supported agriculture farms in Germany, Switzerland and Austria. Right now we're launching a Svelte rewrite of the frontend, built end to end with agentic workflows.
  
 ## Before
  
