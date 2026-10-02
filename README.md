@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Christian, software engineer. I build web frontends, full stack web applications and the platforms underneath them: React and TypeScript, micro-frontends, design systems. These days most of my time goes into working out how to build software with AI agents in a way that is reproducible and reviewable and how much of the process can be automated while staying in control.
+I'm Christian, software engineer. I build web frontends, full stack web applications and the platforms underneath them: React and TypeScript, micro-frontends, design systems. Currently I'm very interested in how to build software with AI agents in a way that is reproducible and reviewable and how much of the process can be automated while staying in control.
 
 [trails](https://github.com/crijke/trails) is the workflow I currently use every day: a spec → plan → implement process, packaged as agent skills for Claude Code and Codex and as an npm package for automated runs. Each step writes plain markdown into `specs/`, committed alongside the code, so agent work can be reviewed like any other change and picked up again in a later session. There is also an experimental `deslop` skill that removes AI-generated patterns from code without changing its behavior.
 
