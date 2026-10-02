@@ -4,11 +4,11 @@ I build web frontends, full stack web applications and the platforms underneath 
 
 ## Currently
 
-[trails](https://github.com/crijke/trails) is the workflow I currently use every day: a spec → plan → implement process, packaged as agent skills for Claude Code and Codex and as an npm package for automated runs. Each step writes plain markdown into `specs/`, committed alongside the code, so agent work can be reviewed like any other change and picked up again in a later session.
+[trails](https://github.com/crijke/trails) is the workflow I currently use a lot: a spec → plan → implement process, packaged as agent skills for Claude Code and Codex and as an npm package for automated runs. Each step writes plain markdown into `specs/`, committed alongside the code, so agent work can be reviewed like any other change and picked up again in a later session.
 
 My next goal: building a whole software factory on top of this workflow.
  
-[teikei](https://github.com/teikei/teikei) / Ernte Teilen. I co-initiated teikei in 2013 and still maintain it together with [sjockers](https://github.com/sjockers). It's the open-source map and API behind [Ernte Teilen](https://ernte-teilen.org/karte), which uses crowdsourced data to connect people with community-supported agriculture farms in Germany, Switzerland and Austria.
+[teikei](https://github.com/teikei/teikei) / Ernte Teilen. I co-initiated teikei in 2013 and still maintain it together with [sjockers](https://github.com/sjockers). It's the open-source map and API behind [Ernte Teilen](https://ernte-teilen.org/karte), which uses crowdsourced data to connect people with community-supported agriculture farms and initiatives in Germany, Switzerland and Austria.
 
 Right now, we're launching a Svelte rewrite of the frontend, built end to end with agentic workflows, used [Conductor](https://www.conductor.build/) a lot while building this.
  
