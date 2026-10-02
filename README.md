@@ -10,7 +10,7 @@ My next goal: building a whole software factory on top of this workflow.
  
 [teikei](https://github.com/teikei/teikei) / Ernte Teilen. I co-initiated teikei in 2013 and still maintain it together with [sjockers](https://github.com/sjockers). It's the open-source map and API behind [Ernte Teilen](https://ernte-teilen.org/karte), which uses crowdsourced data to connect people with community-supported agriculture farms in Germany, Switzerland and Austria.
 
-Right now, we're launching a Svelte rewrite of the frontend, built end to end with agentic workflows.
+Right now, we're launching a Svelte rewrite of the frontend, built end to end with agentic workflows, used [Conductor](https://www.conductor.build/) a lot while building this.
  
 ## Before
  
