@@ -4,13 +4,13 @@ I build web frontends, full stack web applications and the platforms underneath 
 
 ## Currently
 
-[trails](https://github.com/crijke/trails) is the workflow I currently use a lot: a spec → plan → implement process, packaged as agent skills for Claude Code and Codex and as an npm package for automated runs. Each step writes plain markdown into `specs/`, committed alongside the code, so agent work can be reviewed like any other change and picked up again in a later session.
+[trails](https://github.com/crijke/trails) is the workflow I currently use a lot: a spec → plan → implement process, packaged as agent skills for Claude Code and Codex and as an npm package for automated runs. Each step writes plain markdown into `specs/`, committed alongside the code, so agent work can be reviewed like any other change and picked up again in a later session. I'll probably explore a closer Github or Linear ticket integration soon, too. 
 
 My next goal: building a whole software factory on top of this workflow.
  
 [teikei](https://github.com/teikei/teikei) / Ernte Teilen. I co-initiated teikei in 2013 and still maintain it together with [sjockers](https://github.com/sjockers). It's the open-source map and API behind [Ernte Teilen](https://ernte-teilen.org/karte), which uses crowdsourced data to connect people with community-supported agriculture farms and initiatives in Germany, Switzerland and Austria.
 
-Right now, we're launching a Svelte rewrite of the frontend, built end to end with agentic workflows, used [Conductor](https://www.conductor.build/) a lot while building this.
+Right now, we're launching a Svelte rewrite of the frontend, built end to end with agentic workflows, I used [Conductor](https://www.conductor.build/) a lot while building this.
  
 ## Before
  
@@ -18,7 +18,7 @@ Right now, we're launching a Svelte rewrite of the frontend, built end to end wi
 
 ## My Work
  
-20 years, from Java payment systems to frontend platform architecture. Most recently I was on the frontend platform team at Lexware Office: design system, migration to a Module Federation micro-frontend architecture. I'm also a contributor to [module-federation/vite](https://github.com/module-federation/vite).
+20 years, from Java payment systems to frontend platform architecture. Most recently I was working with the frontend platform team at Lexware Office: design system, migration to a Module Federation micro-frontend architecture. I'm also a contributor to [module-federation/vite](https://github.com/module-federation/vite).
  
 ## Tools I reach for
  
