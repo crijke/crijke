@@ -4,7 +4,7 @@ I build web frontends, full stack web applications and the platforms underneath 
 
 ## Currently
 
-[trails](https://github.com/crijke/trails) is the workflow I currently use a lot: a spec → plan → implement process, packaged as agent skills for Claude Code and Codex and as an npm package for automated runs. Each step writes plain markdown into `specs/`, committed alongside the code, so agent work can be reviewed like any other change and picked up again in a later session. I'll probably explore a closer Github or Linear ticket integration soon, too. 
+[trails](https://github.com/crijke/trails) is the workflow I currently use a lot: a spec → plan → implement process, packaged as agent skills for Claude Code and Codex and as an npm package for automated runs. Each step writes plain markdown into `specs/`, committed alongside the code, so agent work can be reviewed like any other change and picked up again in a later session.
 
 My next goal: building a whole software factory on top of this workflow.
  
