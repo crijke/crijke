@@ -4,13 +4,13 @@ I build web frontends, full stack web applications and the platforms underneath 
 
 ## Currently
 
-[trails](https://github.com/crijke/trails) is my workflow I currently use a lot: a spec → plan → implement process, packaged as agent skills for Claude Code and Codex and as an npm package for automated runs. Each step writes plain markdown into `specs/`, committed alongside the code, so agent work can be reviewed like any other change and picked up again in a later session. It's similar to [OpenSpec][https://openspec.dev/], which I also like and use. 
+[trails](https://github.com/crijke/trails) is my workflow I currently use a lot: a spec → plan → implement process, packaged as agent skills for Claude Code and Codex and as an npm package for automated runs. Each step writes plain markdown into `specs/`, committed alongside the code, so agent work can be reviewed like any other change and picked up again in a later session. It's similar to [OpenSpec](https://openspec.dev/), which I also like and use. 
 
 My next goal: building a whole software factory on top of this workflow.
  
 [teikei](https://github.com/teikei/teikei) / Ernte Teilen. I co-initiated teikei in 2013 and still maintain it together with [sjockers](https://github.com/sjockers). It's the open-source map and API behind [Ernte Teilen](https://ernte-teilen.org/karte), which uses crowdsourced data to connect people with community-supported agriculture farms and initiatives in Germany, Switzerland and Austria.
 
-Right now, we're launching a Svelte rewrite of the frontend, built end to end with agentic workflows, I used [Conductor](https://www.conductor.build/) a lot while building this.
+We recently launched Svelte rewrite of the frontend on out main site, built end to end with agentic workflows. We are currently rolling out the new frontend to our partner sites and we're also modernizing the backend, replacing the legacy ORM with Kysely. 
  
 ## Before
  
