@@ -22,7 +22,7 @@ We recently launched a Svelte rewrite of the frontend on our main site and a mod
  
 ## Tools I reach for
  
-TypeScript · React · Node.js · Vite · Module Federation · Tailwind CSS · shadcn · PostgreSQL · Playwright · Vitest · Claude Code · Codex · Dokku · AWS · Docker
+TypeScript · React · Node.js · nest.js · Vite · Module Federation · Tailwind CSS · shadcn · PostgreSQL · Playwright · Vitest · Claude Code · Codex · Dokku · AWS · Docker
  
 ## Links
  
