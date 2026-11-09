@@ -18,7 +18,7 @@ We recently launched a Svelte rewrite of the frontend on our main site and a mod
 
 ## My Work
  
-20 years, from Java payment systems to frontend platform architecture. Most recently I was working with the frontend platform team at Lexware Office: design system, migration to a Module Federation micro-frontend architecture. I'm also a contributor to [module-federation/vite](https://github.com/module-federation/vite).
+20 years, from Java payment systems to frontend platform architecture. Most recently I was working with the frontend platform team at Lexware Office: design system, migration to a Module Federation micro-frontend architecture. I also contributed bug fixes to [module-federation/vite](https://github.com/module-federation/vite). 
  
 ## Tools I reach for
  
