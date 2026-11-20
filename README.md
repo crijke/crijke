@@ -3,14 +3,14 @@
 I build web frontends, full stack web applications and the platforms underneath them: React and TypeScript, micro-frontends, design systems. Currently I'm very interested in how to build software with AI agents in a way that is reproducible and reviewable and how much of the process can be automated while staying in control.
 
 ## Currently
-
-[trails](https://github.com/crijke/trails) is my workflow I currently use a lot: a spec → plan → implement process, packaged as agent skills for Claude Code and Codex and as an npm package for automated runs. Each step writes plain markdown into `specs/`, committed alongside the code, so agent work can be reviewed like any other change and picked up again in a later session. It's similar to [OpenSpec](https://openspec.dev/), which I also like and use. 
-
-[Conductor](https://www.conductor.build/) used to be my AI coding tool of choice, but I recently switched to [Orca](https://orca.dev/).  
  
 [teikei](https://github.com/teikei/teikei) / Ernte Teilen. I co-initiated teikei in 2013 and still maintain it together with [sjockers](https://github.com/sjockers). It's the open-source map and API behind [Ernte Teilen](https://ernte-teilen.org/karte), which uses crowdsourced data to connect people with community-supported agriculture farms and initiatives in Germany, Switzerland and Austria.
 
 We recently launched a Svelte rewrite of the frontend on our main site and a modernization of the backend, replacing the tightly-coupled, legacy ORM (Objection.js) with a layered architecture and Kysely. We are currently rolling out the new frontend to our partner sites so we can retire the legacy app. After that, we are planning a new authentication/authorization solution with BetterAuth alongside new upcoming features like social media links on profiles or profile image upload. 
+
+[trails](https://github.com/crijke/trails) is my workflow I currently use a lot: a spec → plan → implement process, packaged as agent skills for Claude Code and Codex and as an npm package for automated runs. Each step writes plain markdown into `specs/`, committed alongside the code, so agent work can be reviewed like any other change and picked up again in a later session. It's similar to [OpenSpec](https://openspec.dev/), which I also like and use. 
+
+[Conductor](https://www.conductor.build/) used to be my AI coding tool of choice, but I recently switched to [Orca](https://orca.dev/).  
 
 ## Before
  
